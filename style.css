@@ -45,7 +45,7 @@ nav ul li {
 .hero{
     width: 100%;
     height: auto;
-    background-image: url(./heo-image.jpg);
+    background-image: url(./images/heo-image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -105,7 +105,10 @@ nav ul li {
 .recipes h1{
 text-align: center;
 margin-bottom: 30px;
-font-size: 28px;
+font-size: 50px;
+font-weight: bold;
+text-decoration: underline;
+
 
 }
 .recipe-section{
